@@ -16,4 +16,4 @@ or simple company-level metrics) can be used as additional context where appropr
 This project was developed as part of the `ICS5111` course at the `University of Malta`.
 
 ## Contact
-For any inquiries or feedback, please contact [Gianluca Amato](mailto:gianluca.amato.24@um.edu.mt) & [David Farrugia](mailto:david.farrugia.22@um.edu.mt)
+For any inquiries or feedback, please contact [Gianluca Amato](mailto:gianluca.amato.24@um.edu.mt) & [David Farrugia](mailto:david.farrugia.22@um.edu.mt).
