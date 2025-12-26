@@ -13,7 +13,7 @@ or simple company-level metrics) can be used as additional context where appropr
 - [Kaggle Financial Sentiment Analysis Dataset](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
 
 ## Acknowledgments
-This project was developed as part of the `ICS5111` course at the `University of Malta`.
+This project was developed as part of the `ICS5111` course at the [`University of Malta`](https://www.um.edu.mt/).
 
 ## Contact
 For any inquiries or feedback, please contact [Gianluca Amato](mailto:gianluca.amato.24@um.edu.mt) & [David Farrugia](mailto:david.farrugia.22@um.edu.mt).
