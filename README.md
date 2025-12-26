@@ -9,8 +9,8 @@ commentary or company reports; structured indicators (such as country-level econ
 or simple company-level metrics) can be used as additional context where appropriate.
 
 **Datasets:** 
-- [World Bank Open Data7](https://data.worldbank.org/)
-- [Kaggle Financial Sentiment Analysis Dataset8](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
+- [World Bank Open Data](https://data.worldbank.org/)
+- [Kaggle Financial Sentiment Analysis Dataset](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
 
 ## Acknowledgments
 This project was developed as part of the `ICS5111` course at the `University of Malta`.
