@@ -2,3 +2,5 @@ transformers
 scikit-learn
 datasets
 huggingface_hub
+nltk
+pandas
