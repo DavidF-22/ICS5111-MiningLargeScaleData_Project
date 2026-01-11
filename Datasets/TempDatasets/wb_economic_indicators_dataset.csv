@@ -1,0 +1,376 @@
+source,country,year,indicator_name,value
+wb_open_data,Malta,2024,GDP growth (%),6.79990300224401
+wb_open_data,Malta,2023,GDP growth (%),10.6215185022616
+wb_open_data,Malta,2022,GDP growth (%),2.48309993837792
+wb_open_data,Malta,2021,GDP growth (%),13.4117042939322
+wb_open_data,Malta,2020,GDP growth (%),-3.45728276294712
+wb_open_data,Malta,2019,GDP growth (%),4.08505582134097
+wb_open_data,Malta,2018,GDP growth (%),7.18921479603796
+wb_open_data,Malta,2017,GDP growth (%),12.9713424962459
+wb_open_data,Malta,2016,GDP growth (%),4.07800355932196
+wb_open_data,Malta,2015,GDP growth (%),9.62070315764963
+wb_open_data,Malta,2014,GDP growth (%),7.63136360845897
+wb_open_data,Malta,2013,GDP growth (%),6.29233375866998
+wb_open_data,Malta,2012,GDP growth (%),4.10167392241412
+wb_open_data,Malta,2011,GDP growth (%),0.99220191192282
+wb_open_data,Malta,2010,GDP growth (%),6.19735041110465
+wb_open_data,Malta,2009,GDP growth (%),-1.39524973471087
+wb_open_data,Malta,2008,GDP growth (%),4.41059660584338
+wb_open_data,Malta,2007,GDP growth (%),5.03640168136971
+wb_open_data,Malta,2006,GDP growth (%),2.33618945029086
+wb_open_data,Malta,2005,GDP growth (%),2.88123523900146
+wb_open_data,Malta,2004,GDP growth (%),0.407354470561188
+wb_open_data,Malta,2003,GDP growth (%),3.69331046215919
+wb_open_data,Malta,2002,GDP growth (%),2.74113514481881
+wb_open_data,Malta,2001,GDP growth (%),-0.757203079411141
+wb_open_data,Malta,2000,GDP growth (%),19.6812692571542
+wb_open_data,Italy,2024,GDP growth (%),0.692676948440536
+wb_open_data,Italy,2023,GDP growth (%),0.975694840127005
+wb_open_data,Italy,2022,GDP growth (%),4.82117669913565
+wb_open_data,Italy,2021,GDP growth (%),8.93106210800055
+wb_open_data,Italy,2020,GDP growth (%),-8.86822122185345
+wb_open_data,Italy,2019,GDP growth (%),0.429162533780342
+wb_open_data,Italy,2018,GDP growth (%),0.826646712344115
+wb_open_data,Italy,2017,GDP growth (%),1.60369995294101
+wb_open_data,Italy,2016,GDP growth (%),1.23622108511661
+wb_open_data,Italy,2015,GDP growth (%),0.885667635240807
+wb_open_data,Italy,2014,GDP growth (%),-0.00138761730454462
+wb_open_data,Italy,2013,GDP growth (%),-1.81802510749792
+wb_open_data,Italy,2012,GDP growth (%),-3.12523877282996
+wb_open_data,Italy,2011,GDP growth (%),0.695463154440176
+wb_open_data,Italy,2010,GDP growth (%),1.52910573247101
+wb_open_data,Italy,2009,GDP growth (%),-5.30515401233991
+wb_open_data,Italy,2008,GDP growth (%),-1.02313851177097
+wb_open_data,Italy,2007,GDP growth (%),1.46229205289291
+wb_open_data,Italy,2006,GDP growth (%),1.79947992234244
+wb_open_data,Italy,2005,GDP growth (%),0.762410677306491
+wb_open_data,Italy,2004,GDP growth (%),1.4740217064723
+wb_open_data,Italy,2003,GDP growth (%),0.0665538088732092
+wb_open_data,Italy,2002,GDP growth (%),0.26992966378873
+wb_open_data,Italy,2001,GDP growth (%),2.00643329837733
+wb_open_data,Italy,2000,GDP growth (%),3.88209885062652
+wb_open_data,Germany,2024,GDP growth (%),-0.495851897260366
+wb_open_data,Germany,2023,GDP growth (%),-0.869647578573321
+wb_open_data,Germany,2022,GDP growth (%),1.8092581243061
+wb_open_data,Germany,2021,GDP growth (%),3.90999994204108
+wb_open_data,Germany,2020,GDP growth (%),-4.13191443239947
+wb_open_data,Germany,2019,GDP growth (%),0.977734697038784
+wb_open_data,Germany,2018,GDP growth (%),1.13569604599849
+wb_open_data,Germany,2017,GDP growth (%),2.797906720551
+wb_open_data,Germany,2016,GDP growth (%),2.22222216259371
+wb_open_data,Germany,2015,GDP growth (%),1.66300602334775
+wb_open_data,Germany,2014,GDP growth (%),2.18018602168017
+wb_open_data,Germany,2013,GDP growth (%),0.396995583779145
+wb_open_data,Germany,2012,GDP growth (%),0.463512036709204
+wb_open_data,Germany,2011,GDP growth (%),3.75796884489337
+wb_open_data,Germany,2010,GDP growth (%),4.13463778522758
+wb_open_data,Germany,2009,GDP growth (%),-5.54455451920674
+wb_open_data,Germany,2008,GDP growth (%),0.887902330743628
+wb_open_data,Germany,2007,GDP growth (%),2.8891174138025
+wb_open_data,Germany,2006,GDP growth (%),3.86668241523209
+wb_open_data,Germany,2005,GDP growth (%),0.885485292551564
+wb_open_data,Germany,2004,GDP growth (%),1.16208684507278
+wb_open_data,Germany,2003,GDP growth (%),-0.529801394291297
+wb_open_data,Germany,2002,GDP growth (%),-0.228255715793637
+wb_open_data,Germany,2001,GDP growth (%),1.63614170690956
+wb_open_data,Germany,2000,GDP growth (%),2.8765231247659
+wb_open_data,France,2024,GDP growth (%),1.19046798275883
+wb_open_data,France,2023,GDP growth (%),1.43921494437743
+wb_open_data,France,2022,GDP growth (%),2.71676264185913
+wb_open_data,France,2021,GDP growth (%),6.88233783360239
+wb_open_data,France,2020,GDP growth (%),-7.44064589948231
+wb_open_data,France,2019,GDP growth (%),2.02744646419237
+wb_open_data,France,2018,GDP growth (%),1.64590872395887
+wb_open_data,France,2017,GDP growth (%),2.08361485997399
+wb_open_data,France,2016,GDP growth (%),0.860031075424033
+wb_open_data,France,2015,GDP growth (%),1.06675474783462
+wb_open_data,France,2014,GDP growth (%),0.997832947295251
+wb_open_data,France,2013,GDP growth (%),0.781756446231
+wb_open_data,France,2012,GDP growth (%),0.183835264973013
+wb_open_data,France,2011,GDP growth (%),2.43757653729007
+wb_open_data,France,2010,GDP growth (%),2.00032476039051
+wb_open_data,France,2009,GDP growth (%),-2.82455153714783
+wb_open_data,France,2008,GDP growth (%),0.380171435849121
+wb_open_data,France,2007,GDP growth (%),2.53048188351066
+wb_open_data,France,2006,GDP growth (%),2.71406448755236
+wb_open_data,France,2005,GDP growth (%),1.88856584109286
+wb_open_data,France,2004,GDP growth (%),2.86825052501032
+wb_open_data,France,2003,GDP growth (%),0.967827182558352
+wb_open_data,France,2002,GDP growth (%),1.06775027069419
+wb_open_data,France,2001,GDP growth (%),1.89946701186636
+wb_open_data,France,2000,GDP growth (%),4.14099996402915
+wb_open_data,Spain,2024,GDP growth (%),3.45525405630191
+wb_open_data,Spain,2023,GDP growth (%),2.46085796805582
+wb_open_data,Spain,2022,GDP growth (%),6.37031712129601
+wb_open_data,Spain,2021,GDP growth (%),6.68314420473001
+wb_open_data,Spain,2020,GDP growth (%),-10.9400706350371
+wb_open_data,Spain,2019,GDP growth (%),1.96117850841711
+wb_open_data,Spain,2018,GDP growth (%),2.39541124478878
+wb_open_data,Spain,2017,GDP growth (%),2.89604207865007
+wb_open_data,Spain,2016,GDP growth (%),2.91515598595787
+wb_open_data,Spain,2015,GDP growth (%),4.06086672473866
+wb_open_data,Spain,2014,GDP growth (%),1.52048593647231
+wb_open_data,Spain,2013,GDP growth (%),-1.42732224757626
+wb_open_data,Spain,2012,GDP growth (%),-2.86511368637748
+wb_open_data,Spain,2011,GDP growth (%),-0.639920636520344
+wb_open_data,Spain,2010,GDP growth (%),0.0941223116369514
+wb_open_data,Spain,2009,GDP growth (%),-3.76813306940053
+wb_open_data,Spain,2008,GDP growth (%),0.767165748290694
+wb_open_data,Spain,2007,GDP growth (%),3.53350013165972
+wb_open_data,Spain,2006,GDP growth (%),4.04343515605099
+wb_open_data,Spain,2005,GDP growth (%),3.5512255846125
+wb_open_data,Spain,2004,GDP growth (%),3.1145314799161
+wb_open_data,Spain,2003,GDP growth (%),2.9392895953076
+wb_open_data,Spain,2002,GDP growth (%),2.75545611564098
+wb_open_data,Spain,2001,GDP growth (%),3.91908880808811
+wb_open_data,Spain,2000,GDP growth (%),5.20064125553942
+wb_open_data,Malta,2024,Inflation rate (annual %),1.65079469283109
+wb_open_data,Malta,2023,Inflation rate (annual %),5.09396758978883
+wb_open_data,Malta,2022,Inflation rate (annual %),6.15375621933037
+wb_open_data,Malta,2021,Inflation rate (annual %),1.49789217934724
+wb_open_data,Malta,2020,Inflation rate (annual %),0.638544956776712
+wb_open_data,Malta,2019,Inflation rate (annual %),1.6420600176894
+wb_open_data,Malta,2018,Inflation rate (annual %),1.15782362451517
+wb_open_data,Malta,2017,Inflation rate (annual %),1.36435448150708
+wb_open_data,Malta,2016,Inflation rate (annual %),0.642702771527304
+wb_open_data,Malta,2015,Inflation rate (annual %),1.10054826378929
+wb_open_data,Malta,2014,Inflation rate (annual %),0.310306472181665
+wb_open_data,Malta,2013,Inflation rate (annual %),1.1802843636655
+wb_open_data,Malta,2012,Inflation rate (annual %),2.37582057760386
+wb_open_data,Malta,2011,Inflation rate (annual %),2.9629852819288
+wb_open_data,Malta,2010,Inflation rate (annual %),1.51563513618532
+wb_open_data,Malta,2009,Inflation rate (annual %),2.08432746082343
+wb_open_data,Malta,2008,Inflation rate (annual %),4.25862171897073
+wb_open_data,Malta,2007,Inflation rate (annual %),1.24921923797629
+wb_open_data,Malta,2006,Inflation rate (annual %),2.77378006481472
+wb_open_data,Malta,2005,Inflation rate (annual %),3.00796652450313
+wb_open_data,Malta,2004,Inflation rate (annual %),2.79082848067754
+wb_open_data,Malta,2003,Inflation rate (annual %),1.30383777442602
+wb_open_data,Malta,2002,Inflation rate (annual %),2.18849048060549
+wb_open_data,Malta,2001,Inflation rate (annual %),2.92949244324104
+wb_open_data,Malta,2000,Inflation rate (annual %),2.36959287531806
+wb_open_data,Italy,2024,Inflation rate (annual %),0.982373023061417
+wb_open_data,Italy,2023,Inflation rate (annual %),5.62219442195901
+wb_open_data,Italy,2022,Inflation rate (annual %),8.20128991161718
+wb_open_data,Italy,2021,Inflation rate (annual %),1.87378325762481
+wb_open_data,Italy,2020,Inflation rate (annual %),-0.13770757391651
+wb_open_data,Italy,2019,Inflation rate (annual %),0.611246943765304
+wb_open_data,Italy,2018,Inflation rate (annual %),1.13748763600391
+wb_open_data,Italy,2017,Inflation rate (annual %),1.22653316645812
+wb_open_data,Italy,2016,Inflation rate (annual %),-0.09401665691575
+wb_open_data,Italy,2015,Inflation rate (annual %),0.0387903996579733
+wb_open_data,Italy,2014,Inflation rate (annual %),0.241047429826756
+wb_open_data,Italy,2013,Inflation rate (annual %),1.21999342274306
+wb_open_data,Italy,2012,Inflation rate (annual %),3.04136333226775
+wb_open_data,Italy,2011,Inflation rate (annual %),2.78063272879323
+wb_open_data,Italy,2010,Inflation rate (annual %),1.52551602118248
+wb_open_data,Italy,2009,Inflation rate (annual %),0.774768131387381
+wb_open_data,Italy,2008,Inflation rate (annual %),3.34783258401022
+wb_open_data,Italy,2007,Inflation rate (annual %),1.82974112202403
+wb_open_data,Italy,2006,Inflation rate (annual %),2.09084391012754
+wb_open_data,Italy,2005,Inflation rate (annual %),1.9852929852798
+wb_open_data,Italy,2004,Inflation rate (annual %),2.20673661423657
+wb_open_data,Italy,2003,Inflation rate (annual %),2.6725555277285
+wb_open_data,Italy,2002,Inflation rate (annual %),2.46532319171165
+wb_open_data,Italy,2001,Inflation rate (annual %),2.78516542713554
+wb_open_data,Italy,2000,Inflation rate (annual %),2.53768532095002
+wb_open_data,Germany,2024,Inflation rate (annual %),2.2564981433876
+wb_open_data,Germany,2023,Inflation rate (annual %),5.94643667725823
+wb_open_data,Germany,2022,Inflation rate (annual %),6.87257438551097
+wb_open_data,Germany,2021,Inflation rate (annual %),3.06666666666673
+wb_open_data,Germany,2020,Inflation rate (annual %),0.144877925813982
+wb_open_data,Germany,2019,Inflation rate (annual %),1.44565976888253
+wb_open_data,Germany,2018,Inflation rate (annual %),1.73216879766942
+wb_open_data,Germany,2017,Inflation rate (annual %),1.50949485109628
+wb_open_data,Germany,2016,Inflation rate (annual %),0.491747008445174
+wb_open_data,Germany,2015,Inflation rate (annual %),0.514426137125456
+wb_open_data,Germany,2014,Inflation rate (annual %),0.906794000434246
+wb_open_data,Germany,2013,Inflation rate (annual %),1.50472330251876
+wb_open_data,Germany,2012,Inflation rate (annual %),2.00848884782956
+wb_open_data,Germany,2011,Inflation rate (annual %),2.07517283735874
+wb_open_data,Germany,2010,Inflation rate (annual %),1.1038103778926
+wb_open_data,Germany,2009,Inflation rate (annual %),0.312739007368447
+wb_open_data,Germany,2008,Inflation rate (annual %),2.62837981637219
+wb_open_data,Germany,2007,Inflation rate (annual %),2.29834400700951
+wb_open_data,Germany,2006,Inflation rate (annual %),1.57742642840563
+wb_open_data,Germany,2005,Inflation rate (annual %),1.54691114751328
+wb_open_data,Germany,2004,Inflation rate (annual %),1.66573696655992
+wb_open_data,Germany,2003,Inflation rate (annual %),1.03422218628562
+wb_open_data,Germany,2002,Inflation rate (annual %),1.42080615551526
+wb_open_data,Germany,2001,Inflation rate (annual %),1.98385731334471
+wb_open_data,Germany,2000,Inflation rate (annual %),1.44026838719741
+wb_open_data,France,2024,Inflation rate (annual %),1.99904942291463
+wb_open_data,France,2023,Inflation rate (annual %),4.87835726508441
+wb_open_data,France,2022,Inflation rate (annual %),5.22236748369735
+wb_open_data,France,2021,Inflation rate (annual %),1.64233141038385
+wb_open_data,France,2020,Inflation rate (annual %),0.476498852725066
+wb_open_data,France,2019,Inflation rate (annual %),1.10825492288294
+wb_open_data,France,2018,Inflation rate (annual %),1.85081508315502
+wb_open_data,France,2017,Inflation rate (annual %),1.03228275064662
+wb_open_data,France,2016,Inflation rate (annual %),0.18333486112386
+wb_open_data,France,2015,Inflation rate (annual %),0.0375143805125182
+wb_open_data,France,2014,Inflation rate (annual %),0.50775882293799
+wb_open_data,France,2013,Inflation rate (annual %),0.863715497861805
+wb_open_data,France,2012,Inflation rate (annual %),1.9541953161351
+wb_open_data,France,2011,Inflation rate (annual %),2.11159795174994
+wb_open_data,France,2010,Inflation rate (annual %),1.53112270420926
+wb_open_data,France,2009,Inflation rate (annual %),0.0876204781574552
+wb_open_data,France,2008,Inflation rate (annual %),2.81286194914787
+wb_open_data,France,2007,Inflation rate (annual %),1.4879980595386
+wb_open_data,France,2006,Inflation rate (annual %),1.67512449608723
+wb_open_data,France,2005,Inflation rate (annual %),1.74586936380482
+wb_open_data,France,2004,Inflation rate (annual %),2.14208964640241
+wb_open_data,France,2003,Inflation rate (annual %),2.09847219146923
+wb_open_data,France,2002,Inflation rate (annual %),1.9234122872706
+wb_open_data,France,2001,Inflation rate (annual %),1.63478079549601
+wb_open_data,France,2000,Inflation rate (annual %),1.67595988720927
+wb_open_data,Spain,2024,Inflation rate (annual %),2.77417826534772
+wb_open_data,Spain,2023,Inflation rate (annual %),3.53236133492433
+wb_open_data,Spain,2022,Inflation rate (annual %),8.39057634118627
+wb_open_data,Spain,2021,Inflation rate (annual %),3.0931351197642
+wb_open_data,Spain,2020,Inflation rate (annual %),-0.322753017299739
+wb_open_data,Spain,2019,Inflation rate (annual %),0.699518994458739
+wb_open_data,Spain,2018,Inflation rate (annual %),1.6749813686379
+wb_open_data,Spain,2017,Inflation rate (annual %),1.95607633363963
+wb_open_data,Spain,2016,Inflation rate (annual %),-0.202598000426452
+wb_open_data,Spain,2015,Inflation rate (annual %),-0.500365709903242
+wb_open_data,Spain,2014,Inflation rate (annual %),-0.151114837527235
+wb_open_data,Spain,2013,Inflation rate (annual %),1.40858109183019
+wb_open_data,Spain,2012,Inflation rate (annual %),2.44612782366809
+wb_open_data,Spain,2011,Inflation rate (annual %),3.1961018883379
+wb_open_data,Spain,2010,Inflation rate (annual %),1.79986457728769
+wb_open_data,Spain,2009,Inflation rate (annual %),-0.28781308353524
+wb_open_data,Spain,2008,Inflation rate (annual %),4.07534335957339
+wb_open_data,Spain,2007,Inflation rate (annual %),2.78679745804946
+wb_open_data,Spain,2006,Inflation rate (annual %),3.51557576832128
+wb_open_data,Spain,2005,Inflation rate (annual %),3.36881409750383
+wb_open_data,Spain,2004,Inflation rate (annual %),3.03924881090925
+wb_open_data,Spain,2003,Inflation rate (annual %),3.03888839396655
+wb_open_data,Spain,2002,Inflation rate (annual %),3.06565685902219
+wb_open_data,Spain,2001,Inflation rate (annual %),3.58983413338112
+wb_open_data,Spain,2000,Inflation rate (annual %),3.43351563418767
+wb_open_data,Malta,2024,Unemployment rate (% of total labor force),2.703
+wb_open_data,Malta,2023,Unemployment rate (% of total labor force),3.11
+wb_open_data,Malta,2022,Unemployment rate (% of total labor force),2.921
+wb_open_data,Malta,2021,Unemployment rate (% of total labor force),3.394
+wb_open_data,Malta,2020,Unemployment rate (% of total labor force),4.347
+wb_open_data,Malta,2019,Unemployment rate (% of total labor force),3.616
+wb_open_data,Malta,2018,Unemployment rate (% of total labor force),3.658
+wb_open_data,Malta,2017,Unemployment rate (% of total labor force),4.002
+wb_open_data,Malta,2016,Unemployment rate (% of total labor force),4.687
+wb_open_data,Malta,2015,Unemployment rate (% of total labor force),5.389
+wb_open_data,Malta,2014,Unemployment rate (% of total labor force),5.725
+wb_open_data,Malta,2013,Unemployment rate (% of total labor force),6.106
+wb_open_data,Malta,2012,Unemployment rate (% of total labor force),6.197
+wb_open_data,Malta,2011,Unemployment rate (% of total labor force),6.378
+wb_open_data,Malta,2010,Unemployment rate (% of total labor force),6.847
+wb_open_data,Malta,2009,Unemployment rate (% of total labor force),6.889
+wb_open_data,Malta,2008,Unemployment rate (% of total labor force),5.977
+wb_open_data,Malta,2007,Unemployment rate (% of total labor force),6.472
+wb_open_data,Malta,2006,Unemployment rate (% of total labor force),6.798
+wb_open_data,Malta,2005,Unemployment rate (% of total labor force),6.923
+wb_open_data,Malta,2004,Unemployment rate (% of total labor force),7.317
+wb_open_data,Malta,2003,Unemployment rate (% of total labor force),7.488
+wb_open_data,Malta,2002,Unemployment rate (% of total labor force),6.902
+wb_open_data,Malta,2001,Unemployment rate (% of total labor force),7.107
+wb_open_data,Malta,2000,Unemployment rate (% of total labor force),6.324
+wb_open_data,Italy,2024,Unemployment rate (% of total labor force),6.778
+wb_open_data,Italy,2023,Unemployment rate (% of total labor force),7.627
+wb_open_data,Italy,2022,Unemployment rate (% of total labor force),8.069
+wb_open_data,Italy,2021,Unemployment rate (% of total labor force),9.497
+wb_open_data,Italy,2020,Unemployment rate (% of total labor force),9.164
+wb_open_data,Italy,2019,Unemployment rate (% of total labor force),9.951
+wb_open_data,Italy,2018,Unemployment rate (% of total labor force),10.61
+wb_open_data,Italy,2017,Unemployment rate (% of total labor force),11.211
+wb_open_data,Italy,2016,Unemployment rate (% of total labor force),11.688
+wb_open_data,Italy,2015,Unemployment rate (% of total labor force),11.896
+wb_open_data,Italy,2014,Unemployment rate (% of total labor force),12.683
+wb_open_data,Italy,2013,Unemployment rate (% of total labor force),12.149
+wb_open_data,Italy,2012,Unemployment rate (% of total labor force),10.655
+wb_open_data,Italy,2011,Unemployment rate (% of total labor force),8.359
+wb_open_data,Italy,2010,Unemployment rate (% of total labor force),8.363
+wb_open_data,Italy,2009,Unemployment rate (% of total labor force),7.749
+wb_open_data,Italy,2008,Unemployment rate (% of total labor force),6.723
+wb_open_data,Italy,2007,Unemployment rate (% of total labor force),6.076
+wb_open_data,Italy,2006,Unemployment rate (% of total labor force),6.777
+wb_open_data,Italy,2005,Unemployment rate (% of total labor force),7.73
+wb_open_data,Italy,2004,Unemployment rate (% of total labor force),7.866
+wb_open_data,Italy,2003,Unemployment rate (% of total labor force),8.869
+wb_open_data,Italy,2002,Unemployment rate (% of total labor force),9.211
+wb_open_data,Italy,2001,Unemployment rate (% of total labor force),9.599
+wb_open_data,Italy,2000,Unemployment rate (% of total labor force),10.834
+wb_open_data,Germany,2024,Unemployment rate (% of total labor force),3.406
+wb_open_data,Germany,2023,Unemployment rate (% of total labor force),3.068
+wb_open_data,Germany,2022,Unemployment rate (% of total labor force),3.12
+wb_open_data,Germany,2021,Unemployment rate (% of total labor force),3.594
+wb_open_data,Germany,2020,Unemployment rate (% of total labor force),3.881
+wb_open_data,Germany,2019,Unemployment rate (% of total labor force),3.163
+wb_open_data,Germany,2018,Unemployment rate (% of total labor force),3.384
+wb_open_data,Germany,2017,Unemployment rate (% of total labor force),3.781
+wb_open_data,Germany,2016,Unemployment rate (% of total labor force),4.104
+wb_open_data,Germany,2015,Unemployment rate (% of total labor force),4.612
+wb_open_data,Germany,2014,Unemployment rate (% of total labor force),4.979
+wb_open_data,Germany,2013,Unemployment rate (% of total labor force),5.316
+wb_open_data,Germany,2012,Unemployment rate (% of total labor force),5.372
+wb_open_data,Germany,2011,Unemployment rate (% of total labor force),5.967
+wb_open_data,Germany,2010,Unemployment rate (% of total labor force),7.043
+wb_open_data,Germany,2009,Unemployment rate (% of total labor force),7.88
+wb_open_data,Germany,2008,Unemployment rate (% of total labor force),7.508
+wb_open_data,Germany,2007,Unemployment rate (% of total labor force),8.732
+wb_open_data,Germany,2006,Unemployment rate (% of total labor force),10.277
+wb_open_data,Germany,2005,Unemployment rate (% of total labor force),11.193
+wb_open_data,Germany,2004,Unemployment rate (% of total labor force),10.727
+wb_open_data,Germany,2003,Unemployment rate (% of total labor force),9.779
+wb_open_data,Germany,2002,Unemployment rate (% of total labor force),8.482
+wb_open_data,Germany,2001,Unemployment rate (% of total labor force),7.773
+wb_open_data,Germany,2000,Unemployment rate (% of total labor force),7.917
+wb_open_data,France,2024,Unemployment rate (% of total labor force),7.37
+wb_open_data,France,2023,Unemployment rate (% of total labor force),7.335
+wb_open_data,France,2022,Unemployment rate (% of total labor force),7.308
+wb_open_data,France,2021,Unemployment rate (% of total labor force),7.874
+wb_open_data,France,2020,Unemployment rate (% of total labor force),8.009
+wb_open_data,France,2019,Unemployment rate (% of total labor force),8.415
+wb_open_data,France,2018,Unemployment rate (% of total labor force),9.018
+wb_open_data,France,2017,Unemployment rate (% of total labor force),9.409
+wb_open_data,France,2016,Unemployment rate (% of total labor force),10.057
+wb_open_data,France,2015,Unemployment rate (% of total labor force),10.354
+wb_open_data,France,2014,Unemployment rate (% of total labor force),10.273
+wb_open_data,France,2013,Unemployment rate (% of total labor force),9.913
+wb_open_data,France,2012,Unemployment rate (% of total labor force),9.841
+wb_open_data,France,2011,Unemployment rate (% of total labor force),9.228
+wb_open_data,France,2010,Unemployment rate (% of total labor force),9.279
+wb_open_data,France,2009,Unemployment rate (% of total labor force),9.122
+wb_open_data,France,2008,Unemployment rate (% of total labor force),7.386
+wb_open_data,France,2007,Unemployment rate (% of total labor force),8.008
+wb_open_data,France,2006,Unemployment rate (% of total labor force),8.832
+wb_open_data,France,2005,Unemployment rate (% of total labor force),8.882
+wb_open_data,France,2004,Unemployment rate (% of total labor force),8.914
+wb_open_data,France,2003,Unemployment rate (% of total labor force),8.306
+wb_open_data,France,2002,Unemployment rate (% of total labor force),8.702
+wb_open_data,France,2001,Unemployment rate (% of total labor force),8.61
+wb_open_data,France,2000,Unemployment rate (% of total labor force),10.218
+wb_open_data,Spain,2024,Unemployment rate (% of total labor force),11.394
+wb_open_data,Spain,2023,Unemployment rate (% of total labor force),12.179
+wb_open_data,Spain,2022,Unemployment rate (% of total labor force),12.917
+wb_open_data,Spain,2021,Unemployment rate (% of total labor force),14.781
+wb_open_data,Spain,2020,Unemployment rate (% of total labor force),15.532
+wb_open_data,Spain,2019,Unemployment rate (% of total labor force),14.104
+wb_open_data,Spain,2018,Unemployment rate (% of total labor force),15.255
+wb_open_data,Spain,2017,Unemployment rate (% of total labor force),17.224
+wb_open_data,Spain,2016,Unemployment rate (% of total labor force),19.635
+wb_open_data,Spain,2015,Unemployment rate (% of total labor force),22.057
+wb_open_data,Spain,2014,Unemployment rate (% of total labor force),24.441
+wb_open_data,Spain,2013,Unemployment rate (% of total labor force),26.094
+wb_open_data,Spain,2012,Unemployment rate (% of total labor force),24.789
+wb_open_data,Spain,2011,Unemployment rate (% of total labor force),21.39
+wb_open_data,Spain,2010,Unemployment rate (% of total labor force),19.86
+wb_open_data,Spain,2009,Unemployment rate (% of total labor force),17.857
+wb_open_data,Spain,2008,Unemployment rate (% of total labor force),11.254
+wb_open_data,Spain,2007,Unemployment rate (% of total labor force),8.232
+wb_open_data,Spain,2006,Unemployment rate (% of total labor force),8.452
+wb_open_data,Spain,2005,Unemployment rate (% of total labor force),9.146
+wb_open_data,Spain,2004,Unemployment rate (% of total labor force),11.09
+wb_open_data,Spain,2003,Unemployment rate (% of total labor force),11.283
+wb_open_data,Spain,2002,Unemployment rate (% of total labor force),11.146
+wb_open_data,Spain,2001,Unemployment rate (% of total labor force),10.348
+wb_open_data,Spain,2000,Unemployment rate (% of total labor force),13.785
