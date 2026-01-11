@@ -39,10 +39,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Running the Project
-
-After installing the dependencies, you can run the data preprocessing and retrieval components using the provided scripts/notebooks (see project structure for details).
-
 ### 3. Run the notebooks
 After installing the dependencies, you can run the data preprocessing and notebook `RagAssignment.ipynb`.
 
