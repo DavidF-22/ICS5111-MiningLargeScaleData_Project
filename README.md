@@ -43,10 +43,6 @@ pip install -r requirements.txt
 
 After installing the dependencies, you can run the data preprocessing and retrieval components using the provided scripts/notebooks (see project structure for details).
 
-```bash
-python "1. Setup/setup_dependencies.py"
-```
-
 ### 3. Run the notebooks
 After installing the dependencies, you can run the data preprocessing and notebook `RagAssignment.ipynb`.
 
