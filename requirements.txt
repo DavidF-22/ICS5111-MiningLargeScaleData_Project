@@ -7,3 +7,5 @@ pandas
 ipykernel
 requests
 ipython
+plotly
+nbformat
