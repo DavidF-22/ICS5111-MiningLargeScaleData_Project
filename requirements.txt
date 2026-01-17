@@ -9,3 +9,4 @@ requests
 ipython
 plotly
 nbformat
+statsmodels
