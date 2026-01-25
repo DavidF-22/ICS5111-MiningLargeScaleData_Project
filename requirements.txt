@@ -10,3 +10,7 @@ ipython
 plotly
 nbformat
 statsmodels
+sentence-transformers 
+transformers 
+torch 
+faiss-cpu
