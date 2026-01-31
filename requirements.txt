@@ -16,4 +16,4 @@ torch
 faiss-cpu
 rouge-score
 sacrebleu
-faiss
+faiss-cpu
