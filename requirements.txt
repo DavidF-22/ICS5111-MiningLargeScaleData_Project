@@ -11,9 +11,7 @@ plotly
 nbformat
 statsmodels
 sentence-transformers 
-transformers 
 torch 
 faiss-cpu
 rouge-score
 sacrebleu
-faiss-cpu
